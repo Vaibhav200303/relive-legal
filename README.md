@@ -7,10 +7,9 @@ This folder is a dependency-free static website for GitHub Pages. It contains th
 The legal pages have been populated with the current contact and effective-date details. Update them if those details change. The governing-law section should be reviewed by qualified counsel for the applicable Indian jurisdiction.
 
 The original placeholders were:
-
-- `vs9109807@gmail.com`
-- `September 1,2026`
-- `India`
+- `REPLACE_WITH_CONTACT_EMAIL`
+- `REPLACE_WITH_EFFECTIVE_DATE`
+- `REPLACE_WITH_JURISDICTION`
 
 Have the completed legal text reviewed for the jurisdictions in which Relive will be offered. Re-check the policy whenever a new SDK, analytics tool, backup target, account flow, or data collection feature is added.
 
